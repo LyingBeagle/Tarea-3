@@ -10,7 +10,7 @@ La aplicacion es una gestion de libros, en la cual se procesa palabra a palabra 
 * Abra su cuenta en repl.it (si no tiene cree una a través de su cuenta en github)
 * En el home de repl.it busque la tarea y clónela para comenzar a trabajar, en caso de no encontrarla inserte `https://github.com/LyingBeagle/Tarea-3.git` donde le pide la URL 
 * Seleccione el lenguaje (C)
-* Una vez importado, escriba `gcc *.c -o main` para configurar la complacion
+* Una vez importado, escriba `gcc *.c -o main -lm` para configurar la complacion
 * Una vez guardado, presione el boton **Run** para probar el programa
 ### Desde sistema (No Recomendado)
 ---
